@@ -1,0 +1,80 @@
+// * {
+//   padding: 0;
+//   margin: 0;
+//   box-sizing: border-box;
+// }
+
+// html {
+//   font-size: 62.5%;
+// }
+
+// h1 {
+//   font-size: 8rem;
+//   letter-spacing: 5rem;
+// }
+// h2 {
+//   font-size: 4rem;
+//   letter-spacing: 2rem;
+//   line-height: 7rem;
+// }
+
+// p {
+//   font-size: 2rem;
+// }
+
+// body {
+//   font-family: Roboto;
+//   width: 100vw;
+//   height: 100vh;
+//   background-image: url(img/hero.jpg);
+//   background-size: cover;
+//   overflow: hidden;
+//   position: relative;
+//   clip-path: polygon(0 0, 100% 0, 100% 80%, 0% 100%);
+//   color: #fff;
+// }
+
+// .hero-slider {
+//   padding: 0 10%;
+//   display: flex;
+//   flex-direction: column;
+//   align-items: center;
+//   justify-content: center;
+//   text-align: center;
+//   gap: 5rem;
+//   width: 100vw;
+//   height: 100vh;
+//   background-color: rgba(126, 213, 111, 0.5);
+// }
+
+// .hero-slider .logo {
+//   align-self: flex-start;
+// }
+
+// .hero-slider .logo img {
+//   width: 10rem;
+// }
+
+// /* .back-color {
+//   position: absolute;
+//   width: 100vw;
+//   height: 100vh;
+//   background-color: rgba(126, 213, 111, 0.5);
+//   z-index: -1;
+// } */
+
+// button {
+//   padding: 2rem 4rem;
+//   color: #aaa;
+//   background-color: #fff;
+//   border: 1px solid #aaa;
+//   border-radius: 4rem;
+//   font-size: 2.4rem;
+// }
+
+$color-nav: #8f8f37;
+
+nav {
+  background-color: $color-nav;
+  color: aqua;
+}
